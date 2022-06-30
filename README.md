@@ -12,3 +12,5 @@ the github repository
 Ok so I've made a new branch off the main one
 and now I'm writing stuff to update the file and create new changes in the document!
 That should do the trick. 
+
+here is another line of text to test out 
