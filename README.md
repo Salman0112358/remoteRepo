@@ -16,3 +16,4 @@ That should do the trick.
 here is another line of text to test out 
 this line of text was added on through the terminal on the amazon workspace
 I hope it work how do i get out of this.
+This change was done on nano in the AWS terminal
