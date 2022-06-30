@@ -14,3 +14,5 @@ and now I'm writing stuff to update the file and create new changes in the docum
 That should do the trick. 
 
 here is another line of text to test out 
+this line of text was added on through the terminal on the amazon workspace
+I hope it work how do i get out of this.
